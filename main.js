@@ -1,4 +1,4 @@
-const socket = io("https://backend-chat-sigma.vercel.app");
+const socket = io("https://backend-chat-ten.vercel.app");
 
 const clientsTotal = document.getElementById("client-total");
 
